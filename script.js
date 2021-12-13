@@ -1,0 +1,1 @@
+Basic in script.js
